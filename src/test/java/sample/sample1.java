@@ -12,7 +12,7 @@ public class sample1 {
 		
 		System.out.println("2nd user commit 1st");
 		
-		System.out.println("1st user commit 2nd user");
+		System.out.println("1st user commit 2nd ");
 	}
 
 }

@@ -14,7 +14,7 @@ public class sample1 {
 		
 		
 		
-		System.out.println("3rd user commit 2nd user");
+	
 	}
 
 }

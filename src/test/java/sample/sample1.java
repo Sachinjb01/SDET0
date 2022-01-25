@@ -9,6 +9,8 @@ public class sample1 {
 	public void Sample2()
 	{
 		System.out.println("mine 1st commit");
+		
+		System.out.println("2nd user commit 1st");
 	}
 
 }
